@@ -1,33 +1,33 @@
 # Hi, I'm Pranav
 
-Data Analyst and Backend Developer focused on turning data into actionable insights and building reliable APIs and full-stack applications.
+Data Analyst and Backend Developer. I turn datasets into clear business insights and build reliable APIs and full-stack applications with attention to correctness and maintainability.
 
 ## Skills
-- **Data Analysis & SQL**: Exploratory analysis, business insights, complex queries on retail, travel, and marketplace datasets
-- **Backend**: FastAPI, SQLAlchemy, PostgreSQL, JWT authentication, clean architecture
-- **Full-Stack**: React + TypeScript, Docker, CI/CD, database design with integrity focus
-- **Tools**: Jupyter, Alembic, pytest, Git
+- **Data Analysis**: SQL (complex queries, business metrics), exploratory analysis, Jupyter notebooks
+- **Backend**: FastAPI, SQLAlchemy, PostgreSQL, JWT authentication, Pydantic, clean architecture
+- **Full-Stack & Infra**: React + TypeScript, Docker, GitHub Actions, Alembic migrations, database design focused on integrity
+- **Other**: pytest, Git
 
 ## Featured Work
 
 ### [fpe-budget](https://github.com/Pranav-cloud-tab/fpe-budget) — Personal Finance Application
-Production-oriented expense tracker built with FastAPI, React, and PostgreSQL.  
-Key decisions: computed balances (no stored money), optimistic locking, audit logging, Argon2 + JWT rotation, soft deletes, and extensive architecture documentation.
+Full-stack expense tracker (FastAPI + React + PostgreSQL).  
+Notable engineering: computed balances, optimistic locking, transaction splits with validation, audit logging, Argon2 + JWT rotation with lockout, soft deletes, Docker Compose, CI, and detailed architecture docs.
 
 ### [fastapi-ecommerce-backend](https://github.com/Pranav-cloud-tab/fastapi-ecommerce-backend)
-Modular e-commerce backend with user authentication, product management, and RESTful design.
+Modular e-commerce API with authentication, product management, and RESTful design.
 
-### Data Analysis Projects
-SQL and Jupyter notebooks analyzing:
-- Adidas US sales (regional & category performance)
-- Airbnb regulation impact across cities
+### Data Analysis Portfolio
+Business-focused SQL and Jupyter projects:
+- Adidas US sales performance
+- Airbnb regulation impact
 - Airline passenger satisfaction
 - Maven Movies rental operations
-- Zomato restaurant data
-- Coffee chain store performance
+- Zomato restaurants
+- Coffee chain store analytics
 
 ## About
-Based in Maharashtra, India. Interested in data-driven products, financial systems with strong integrity guarantees, and practical backend engineering.
+Based in Maharashtra, India. Interested in data products, systems with strong integrity guarantees (especially financial), and practical backend engineering.
 
 ---
-Open to connecting and discussing projects or opportunities.
+Open to connecting.
